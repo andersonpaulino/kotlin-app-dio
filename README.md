@@ -1,4 +1,5 @@
 # meu-primeiro-app-dio
-Esse projeto tem o objetivo de realizar um desafio para os alunos do curso de Android na DIO
+Esse projeto tem o objetivo de realizar desafio do curso de Android na DIO
 
-![Captura de Tela 2022-10-05 às 09 13 46](https://user-images.githubusercontent.com/5827265/194057951-ee31a6b9-fe7c-4408-89c7-6cd2cef91bd1.png)
+
+![Screenshot_20230913_190205](https://github.com/andersonpaulino/kotlin-app-dio/assets/12552654/0b3f87f5-8275-4c84-8db4-184f905a546f)
